@@ -1,0 +1,14 @@
+NumberValidations
+=================
+
+Introduction goes here.
+
+
+Example
+=======
+class Person < ActiveRecord::Base
+  validates_incremental_of :weight
+end
+
+
+Copyright (c) 2010 masarakki <masaki@hisme.net>, released under the MIT license
